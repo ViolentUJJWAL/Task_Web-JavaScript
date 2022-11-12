@@ -1,0 +1,39 @@
+body {
+	margin: auto;
+	margin-top: 50px;
+	text-align: center;
+	background-image: url('https://img.freepik.com/free-vector/flat-design-comics-style-background_23-2148802688.jpg?w=740&t=st=1667897387~exp=1667897987~hmac=71e7ca448f9a11e77f4a9cdc8ec7e5f9c0e3eda3c77cc7a56cf8146aa0147921');
+  	background-repeat: no-repeat;
+  	background-attachment: fixed;
+  	background-size: cover;
+}
+
+
+.task_button {
+	height: 35px;
+	width: 100px;
+}
+
+
+.offbulb {
+	height: 200px;
+	width: 130px;
+	background-image: url("https://media.geeksforgeeks.org/wp-content/uploads/OFFbulb.jpg");
+}
+
+.onbulb {
+	height: 200px;
+	width: 130px;
+	background-image: url('https://media.geeksforgeeks.org/wp-content/uploads/ONbulb.jpg');
+}
+
+#bulb {
+	width: 150px;
+	position: absolute;
+	top: 5px;
+	left: 150px;
+}
+
+#contener3 {
+	margin-top: 100px;
+}
